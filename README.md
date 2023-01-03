@@ -1,4 +1,5 @@
-## Hello there 👋 🌱 I’m currently learning .Net 
+## Hello there 👋 
+🌱 I’m currently learning .Net 
 🤔 I’m looking for help with .Net
 <p align="center"> <img src="https://media.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif" width='200'alt="Learn Together"/> </p> 
 <br/> 
