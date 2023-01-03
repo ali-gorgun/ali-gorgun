@@ -1,8 +1,11 @@
 ## Hello there 👋 
 🌱 I’m currently learning .Net 
+
 🤔 I’m looking for help with .Net
+
 <p align="center"> <img src="https://media.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif" width='200'alt="Learn Together"/> </p> 
 <br/> 
+
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/aligorgun/"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/linkedin.png" alt="LinkedIn" width="60" align="center"/></a> 
 <a href="mailto:aligorgun1994@gmail.com"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/gmail.png" alt="Gmail" width="52" align="center"/></a><br/> <p>&nbsp; 
